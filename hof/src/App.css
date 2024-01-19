@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.display-box {
+    border: 2px solid black;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.list-elements {
+    list-style: none;
+    color: rgb(66, 66, 240);
+}
